@@ -1,2 +1,2 @@
-Password: Yogev
-Private Key: RickRoll
+Password: ILoveDogs
+Private Key: CatsAreAlsoFine
